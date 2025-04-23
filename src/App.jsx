@@ -8,26 +8,26 @@ function App() {
       <p className="text">This is my portfolio</p>
     </div>
     <div className="container-row">
-      <Portfolio  title="Test"
-                  skills = "HTML, CSS"
-                  summary = "a practice project to learn JS"
-                  learned = "how to use React"
-                  challenges = "how to use React Router" 
-                  link = "http://github.com"> 
+      <Portfolio  title="Test my skills"
+                  skills = "HTML, CSS, pre-processor"
+                  summary = "a project I did to recreate a website from a figma design"
+                  learned = "how to use pre-processors"
+                  challenges = "how to work with a hard deadline. Preposessor was new to me and in what order you do things" 
+                  link = "https://github.com/Thebeatkicks/test-your-skills"> 
       </Portfolio> 
-      <Portfolio  title="Test"
-                  skills = "HTML, CSS, JS, REACT"
-                  summary = "a practice project to learn JS"
-                  learned = "how to use React"
-                  challenges = "how to use React Router" 
-                  link = "http://github.com"> 
+      <Portfolio  title="Genesis"
+                  skills = "HTML, CSS"
+                  summary = "the first project I did that was a bit more advanced. I used a figma design to recreate a website"
+                  learned = "how to use flexbox and grid"
+                  challenges = "it was hard to get the design right. I had to learn how to use flexbox and grid" 
+                  link = "https://github.com/Thebeatkicks/genesis"> 
         </Portfolio> 
-        <Portfolio  title="Test"
+        <Portfolio  title="React-app-1"
                   skills = "HTML, CSS, JS, REACT"
-                  summary = "a practice project to learn JS"
-                  learned = "how to use React"
-                  challenges = "how to use React Router" 
-                  link = "http://github.com"> 
+                  summary = "a practice project to learn JS and React."
+                  learned = "how to use React, how to set up a project with React, how to use components and props"
+                  challenges = "how to troubleshooting errors in React." 
+                  link = "https://github.com/Thebeatkicks/react-1"> 
         </Portfolio> 
     </div>
     </>

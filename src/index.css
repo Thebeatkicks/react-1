@@ -1,3 +1,8 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
 .title {
     font-size: 2rem;
     color: blue;
@@ -6,4 +11,13 @@
 .text {
     font-size: 1.5rem;
     color: #333;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
 }
