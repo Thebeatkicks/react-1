@@ -1,11 +1,13 @@
+@import "tailwindcss";
+
 body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
 }
 
 .title {
-    font-size: 2rem;
-    color: blue;
+    font-size: 3rem;
+    color: rgb(104, 29, 203);
 }
 
 .text {
@@ -17,7 +19,5 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
-    margin: 10px;
     text-align: center;
 }
